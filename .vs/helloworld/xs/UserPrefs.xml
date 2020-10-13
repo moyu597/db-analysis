@@ -1,20 +1,22 @@
 ﻿<Properties StartupConfiguration="{C6B43718-CAD8-4877-9B70-503ED9752D1E}|Default">
   <MonoDevelop.Ide.ItemProperties.helloworld.Android PreferredExecutionTarget="Android.pixelauto" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="helloworld/gridpage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
       <File FileName="helloworld/App.xaml.cs" Line="29" Column="1" />
       <File FileName="helloworld/stackpage.xaml" Line="1" Column="1" />
       <File FileName="helloworld/stackpage.xaml.cs" Line="1" Column="1" />
       <File FileName="helloworld/gridpage.xaml.cs" Line="1" Column="1" />
       <File FileName="helloworld/gridpage.xaml" Line="1" Column="1" />
+      <File FileName="README.md" Line="1" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="helloworld" expanded="True">
+          <Node name="helloworld" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
             <Node name="helloworld" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="gridpage.xaml" expanded="True" selected="True" />
+              <Node name="gridpage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
               <Node name="stackpage.xaml" expanded="True" />
             </Node>
