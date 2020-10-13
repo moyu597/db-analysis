@@ -1,0 +1,15 @@
+/Users/og/Projects/helloworld/helloworld/bin/Debug/netstandard2.0/helloworld.deps.json
+/Users/og/Projects/helloworld/helloworld/bin/Debug/netstandard2.0/helloworld.dll
+/Users/og/Projects/helloworld/helloworld/bin/Debug/netstandard2.0/ref/helloworld.dll
+/Users/og/Projects/helloworld/helloworld/bin/Debug/netstandard2.0/helloworld.pdb
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/helloworld.csprojAssemblyReference.cache
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/gridpage.xaml.g.cs
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/helloworld.AssemblyInfoInputs.cache
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/helloworld.AssemblyInfo.cs
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/helloworld.dll
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/ref/helloworld.dll
+/Users/og/Projects/helloworld/helloworld/obj/Debug/netstandard2.0/helloworld.pdb
